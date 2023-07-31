@@ -1,4 +1,4 @@
-# LA PRIMA PIZZA - RESTAURANT
+# <img src="https://github.com/Pilag6/001-restaurant/assets/79191808/709255ad-cad2-4752-8835-ddf8b14733cc" alt="La Prima Pizza" width="30"/> LA PRIMA PIZZA - RESTAURANT <img src="https://github.com/Pilag6/001-restaurant/assets/79191808/709255ad-cad2-4752-8835-ddf8b14733cc" alt="La Prima Pizza" width="30"/>
 
 Responisve restaurant website using the powerful combination of React, Next.js, TypeScript, and Tailwind CSS.
 
