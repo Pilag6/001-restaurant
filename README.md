@@ -1,3 +1,10 @@
+# LA PRIMA PIZZA - RESTAURANT
+
+Responisve restaurant website using the powerful combination of React, Next.js, TypeScript, and Tailwind CSS.
+
+## Screenshot
+![image](https://github.com/Pilag6/001-restaurant/assets/79191808/21421627-80e9-47f3-a0cb-9ceb0db0f434)
+
 ## Techs used
 
 [![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
@@ -9,9 +16,6 @@
 [![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)]()
 [![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)]()
 [![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)]()
-
-## Screenshot
-![image](https://github.com/Pilag6/001-restaurant/assets/79191808/21421627-80e9-47f3-a0cb-9ceb0db0f434)
 
 ![image](https://github.com/Pilag6/001-restaurant/assets/79191808/2d32c769-76a0-44c3-b117-b7fb7c7496f7)
 
