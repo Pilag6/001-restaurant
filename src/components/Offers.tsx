@@ -10,7 +10,9 @@ const Offer = () => {
                 <h1 className="text-white text-5xl font-bold xl:text-6xl">
                     From Italy with Love
                 </h1>
-                <p className="text-white xl:text-xl">Taste the Tradition. Your Pasta Paradise!</p>
+                <p className="text-white xl:text-xl">
+                    Taste the Tradition. Your Pasta Paradise!
+                </p>
                 {/* <CountDown /> */}
                 <button className="bg-red-500 text-white py-4 px-8">
                     Order Now
