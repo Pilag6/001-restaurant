@@ -29,7 +29,7 @@ const CartPage = () => {
                                     X
                                 </span>
                                 <span
-                                    className="group-hover:opacity-100 transition-opacity bg-red-500 px-2 text-sm text-white absolute left-1/2 translate-y-full opacity-0 mx-auto"
+                                    className="group-hover:opacity-100 transition-opacity bg-red-500 px-2 text-sm text-white absolute -left-12 top-3 lg:left-1/2 translate-y-full opacity-0 mx-auto"
                                 >
                                     Remove
                                 </span>
@@ -61,7 +61,7 @@ const CartPage = () => {
                                     X
                                 </span>
                                 <span
-                                    className="group-hover:opacity-100 transition-opacity bg-red-500 px-2 text-sm text-white absolute left-1/2 translate-y-full opacity-0 mx-auto"
+                                    className="group-hover:opacity-100 transition-opacity bg-red-500 px-2 text-sm text-white absolute -left-12 top-3 lg:left-1/2 translate-y-full opacity-0 mx-auto"
                                 >
                                     Remove
                                 </span>
@@ -94,7 +94,7 @@ const CartPage = () => {
                                     X
                                 </span>
                                 <span
-                                    className="group-hover:opacity-100 transition-opacity bg-red-500 px-2 text-sm text-white absolute left-1/2 translate-y-full opacity-0 mx-auto"
+                                    className="group-hover:opacity-100 transition-opacity bg-red-500 px-2 text-sm text-white absolute -left-12 top-3 lg:left-1/2 translate-y-full opacity-0 mx-auto"
                                 >
                                     Remove
                                 </span>
