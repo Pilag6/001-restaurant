@@ -33,8 +33,8 @@ const Navbar = () => {
             </div>
 
             {/* LINKS RIGTH OF THE LOGO */}
-            <div className="hidden md:flex items-center gap-4 flex-1 justify-end ">
-                <div className="md:absolute top-2 right-2 lg:static flex items-center gap-2 cursor-pointer bg-green-700 py-1 px-2 rounded text-white">
+            <div className="hidden sm:flex items-center gap-4 flex-1 justify-end ">
+                <div className="md:absolute top-2 right-2 xl:static flex items-center gap-2 cursor-pointer bg-green-700 py-1 px-2 text-white">
                     <Image src="/phone.png" alt="" width={20} height={20} />
                     <span>(+49) 123 4567</span>
                 </div>
