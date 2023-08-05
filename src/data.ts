@@ -9,6 +9,7 @@ type Product = {
   
   type Products = Product[];
   
+  // ---------------------------------------------------------------
   // FEATURES
   export const featuredProducts: Products = [
     {
@@ -202,7 +203,7 @@ type Product = {
     },
   ];
   
-
+// ---------------------------------------------------------------
   // PIZZAS
   export const pizzas: Products = [
     {
@@ -333,6 +334,8 @@ type Product = {
     },
   ];
   
+  // ---------------------------------------------------------------
+  // SINGLE PRODUCTS
   export const singleProduct: Product = {
     id: 1,
     title: "Sicilian",
@@ -355,6 +358,8 @@ type Product = {
     ],
   };
   
+
+  // ---------------------------------------------------------------
   // MENU PAGE
   type Menu = {
     id: number;

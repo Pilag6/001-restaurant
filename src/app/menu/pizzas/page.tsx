@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
-const CategoryPage = () => {
+const Pizzas = () => {
     return (
         <div className="flex flex-wrap text-red-500">
             {pizzas.map((item) => (
@@ -33,4 +33,4 @@ const CategoryPage = () => {
     );
 };
 
-export default CategoryPage;
+export default Pizzas;
