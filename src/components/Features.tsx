@@ -1,6 +1,7 @@
 import { featuredProducts } from "@/data";
 import Image from "next/image";
 import React from "react";
+import Buttons from "./Buttons";
 
 const Featured = () => {
     return (
@@ -33,9 +34,7 @@ const Featured = () => {
                             <span className="text-xl font-bold">
                                 ${item.price}
                             </span>
-                            <button className="bg-red-500 text-white py-4 px-8">
-                                Add to Cart
-                            </button>
+                            <Buttons title="Add to Cart"/>
                         </div>
                     </div>
                 ))}

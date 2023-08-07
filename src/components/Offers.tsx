@@ -1,5 +1,6 @@
 // import Image from "next/image";
 import React from "react";
+import Buttons from "./Buttons";
 // import CountDown from "./CountDown";
 
 const Offer = () => {
@@ -14,9 +15,7 @@ const Offer = () => {
                     Taste the Tradition. Your Pasta Paradise!
                 </p>
                 {/* <CountDown /> */}
-                <button className="bg-red-500 text-white py-4 px-8">
-                    Order Now
-                </button>
+                <Buttons title="Discover More"/>
             </div>
 
             {/* IMAGE CONTAINER */}

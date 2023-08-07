@@ -1,6 +1,7 @@
 "use client";
 import Image from "next/image";
 import React, { useState, useEffect } from "react";
+import Buttons from "./Buttons";
 
 const data = [
     {
@@ -51,9 +52,7 @@ const Slider = () => {
                 <h1 className="text-5xl text-center uppercase px-4 md:px-10 md:text-6xl xl:text-7xl">
                     {data[currentSlide].title}
                 </h1>
-                <button className="py-4 bg-red-500 text-white px-8">
-                    Order Now
-                </button>
+                <Buttons title="Order Now"/>
             </div>
             {/* IMAGE CONTAINER */}
             <div className="w-full flex-1 relative">
