@@ -2,6 +2,8 @@
 
 Responisve restaurant website using the powerful combination of React, Next.js, TypeScript, and Tailwind CSS.
 
+<a href="https://main--001-restaurant.netlify.app//"><strong>➥ Live Demo</strong></a>
+
 ## Screenshot
 ![image](https://github.com/Pilag6/001-restaurant/assets/79191808/21421627-80e9-47f3-a0cb-9ceb0db0f434)
 
